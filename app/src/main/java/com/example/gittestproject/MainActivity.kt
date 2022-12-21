@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //push 1차 test 진행
         //push 2차 test 진행
+        asdasdasdasd
     }
 }
