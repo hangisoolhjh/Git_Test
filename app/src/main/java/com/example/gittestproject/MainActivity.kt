@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun func1() {
-        Log.e("qweasd", "QWeas")
+        Log.e("qweasd", "QWeasdffedfs")
         Log.e("qweasd", "QWeas")
     }
 
