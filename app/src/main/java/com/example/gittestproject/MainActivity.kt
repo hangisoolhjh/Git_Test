@@ -9,10 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //push 1차 test 진행
-        //push 2차 test 진행 asdasdasd
-        f fsdlghnsjkfadlasDasd
-        qweads()213
+        qweads()
     }
 
     private fun qweads() {
