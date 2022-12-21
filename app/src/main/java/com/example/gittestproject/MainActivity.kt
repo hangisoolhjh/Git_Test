@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun qweads() {
         Log.e("qweasd", "QWeas")
+        //push 1차 test 진행
+        //push 2차 test 진행 asdasdasd
     }
 }
