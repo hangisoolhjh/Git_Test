@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //push 1차 test 진행
-        //push 2차 test 진행
+        //push 2차 test 진행 asdasdasd
     }
 }
