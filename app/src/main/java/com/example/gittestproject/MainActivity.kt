@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
     private fun func1() {
         Log.e("qweasd", "QWeas")
     }
+
+    private fun funcsd1() {
+        Log.e("qweasd", "QWeas")
+    }
 }
