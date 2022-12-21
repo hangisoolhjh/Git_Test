@@ -8,13 +8,13 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        //push 1차 test 진행
+        //push 2차 test 진행 asdasdasd
 
         qweads()213
     }
 
     private fun qweads() {
         Log.e("qweasd", "QWeas")
-        //push 1차 test 진행
-        //push 2차 test 진행 asdasdasd
     }
 }
