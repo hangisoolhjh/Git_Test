@@ -13,6 +13,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun qweads() {
+        func1()
+        Log.e("qweasd", "QWeas")
+    }
+
+    private fun func1() {
         Log.e("qweasd", "QWeas")
     }
 
